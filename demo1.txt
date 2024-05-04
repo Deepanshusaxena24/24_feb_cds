@@ -3,3 +3,6 @@ first line of code writing
 
 adding some more lines of code for different function 
 this is 3rd changes
+
+showing git reset
+adding some more lines of code to commit
